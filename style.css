@@ -75,11 +75,12 @@
   margin-top: 10px;
   margin-left: 70%;
 }
-h1 {
+#heading_tag {
   background-color: rgb(199, 147, 196);
   text-align: left;
   margin-right: 60%;
   border-radius: 20px;
+  box-shadow: 0 0 50px grey;
 }
 
 #singupbtn {
